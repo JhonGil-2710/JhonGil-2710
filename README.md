@@ -7,7 +7,6 @@ Ing. Telematica.
 i'm student
 
 *   🌍  I'm based in colombia
-*   🖥️  See my portfolio at [portafolio](http://jhon.app)
-*   ✉️  You can contact me at [](mailto:)
+*   ✉️  You can contact me at [jhongil1011@gmail.com](mailto:jhongil1011@gmail.com)
 *   🧠  I'm learning a new lenguaje programing Skills 
 
